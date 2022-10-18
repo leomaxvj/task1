@@ -1,0 +1,59 @@
+.card{
+text-align: center;
+    width: 600px !important;
+    position: relative;
+    left: 500px;
+    height: 800px;
+    top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+.leo{
+    width: 430px !important;
+    position:relative !important ;
+    left: 10px !important;
+}
+.div{
+    height: 1000px;
+}
+
+.ant-row {
+    display: flex;
+    flex-flow: row wrap;
+    min-width: 0px;
+    padding: 0px 0px 20px 0px;
+}
+.InputNumber.ant-form-item-control-input-content {
+    flex: auto;
+    width: 50px !important;
+    position: relative;
+    right: 200px !important;
+}
+textarea.ant-input {
+    max-width: 350px !important;
+    height: auto;
+    min-height: 32px;
+    line-height: 1.5715;
+    vertical-align: bottom;
+    transition: all 0.3s, height 0s;
+}
+.InputNumber{
+    width: 80px !important;
+}
+.textarea{
+    position: relative !important;
+    left: 40px !important;
+}
+.input1 {
+    position: relative !important;
+    left: 176px !important;
+    bottom: 26px !important;
+}
+.max{
+    position: relative;
+    left: 40px;
+}
+.radio{
+
+    position: relative !important;
+    left: 40px !important;
+}
